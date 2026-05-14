@@ -30,7 +30,9 @@ Essa mudança gerou discussões na comunidade, pois muitos desenvolvedores temia
 
 Hoje, a Oracle mantém o Java com foco forte em mercado corporativo, cloud e performance.
 
-<!------IMAGEM AQUI------>
+<p align="center">
+  <img src="imagens/Oracle-Emblem.jpg" width="300">
+</p>
 
 ________________________________________
 
