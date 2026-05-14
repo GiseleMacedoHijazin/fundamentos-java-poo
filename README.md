@@ -14,7 +14,7 @@ No entanto, a história do Java começa antes, em 1991, com o chamado Projeto Gr
 
 O Java quase não existiu como conhecemos hoje. O projeto inicial não teve sucesso comercial, e só ganhou força quando a equipe decidiu adaptá-lo para a internet, que estava em crescimento naquela época.
 
-![Logo Sun Microsystems](imagens/Sun-logo.png)
+<img src="imagens/sun-logo.png" width="400">
 
 ________________________________________
 
