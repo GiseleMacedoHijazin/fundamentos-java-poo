@@ -156,12 +156,12 @@ ________________________________________
 
 ### Eclipse IDE
 
-<!-- IMAGEM DO ECLIPSE AQUI -->
+<img src="imagens/EC.png" width="400">
 
 
 ### Apache NetBeans
 
-<!-- IMAGEM DO NETBEANS AQUI -->
+<img src="imagens/Apache.png" width="400">
 
 
 ________________________________________
