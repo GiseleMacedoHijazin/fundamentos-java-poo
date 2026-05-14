@@ -60,11 +60,11 @@ ________________________________________
 
 Embora o nome técnico fosse JDK 1.2, a Sun o rebatizou como Java 2 para mostrar que a linguagem estava pronta para o mercado corporativo.
 
-#### Collections Framework
+#### Collections Framework:
 
 Antes, cada programador organizava dados de um jeito. O Collections padronizou listas, mapas e conjuntos.
 
-#### Swing
+#### Swing:
 
 Permitiu criar interfaces gráficas (janelas, botões) muito mais bonitas e flexíveis que as da versão 1.0.
 
@@ -72,11 +72,11 @@ ________________________________________
 
 ### Java 5 (2004): Modernização da Sintaxe
 
-#### Generics
+#### Generics:
 
 Acabou com a necessidade de ficar fazendo “cast” (conversão manual) de objetos o tempo todo, evitando erros clássicos de ClassCastException.
 
-#### Annotations
+#### Annotations:
 
 Permitiu colocar metadados no código (como o @Override), o que abriu portas para frameworks modernos como o Spring.
 
@@ -84,11 +84,11 @@ ________________________________________
 
 ### Java 8 (2014): O Salto Funcional
 
-#### Lambdas e Streams
+#### Lambdas e Streams:
 
 O Java, que era puramente orientado a objetos, aceitou conceitos de programação funcional. Isso permitiu processar listas de dados com muito menos linhas de código e de forma mais legível.
 
-#### Nova API de Data
+#### Nova API de Data:
 
 Corrigiu a confusão que era trabalhar com datas e calendários nas versões anteriores.
 
@@ -98,11 +98,11 @@ ________________________________________
 
 Aqui o Java mudou seu modelo de licenciamento e ritmo de lançamentos (agora a cada 6 meses).
 
-#### LTS (Long Term Support)
+#### LTS (Long Term Support):
 
 Tornou-se a versão de referência para empresas que buscam estabilidade.
 
-#### HTTP Client Moderno
+#### HTTP Client Moderno:
 
 Facilitou a comunicação com APIs da web, algo essencial na era dos microserviços e da nuvem.
 
@@ -112,11 +112,11 @@ ________________________________________
 
 Focada em tornar a linguagem menos “verbosa” (menos escrita para fazer a mesma coisa).
 
-#### Records
+#### Records:
 
 Uma forma rápida de criar classes que servem apenas para carregar dados, eliminando a necessidade de escrever Getters, Setters e toString manualmente.
 
-#### Sealed Classes
+#### Sealed Classes:
 
 Maior controle sobre a hierarquia de herança, aumentando a segurança do design do software.
 
@@ -124,7 +124,7 @@ ________________________________________
 
 ### Java 21 (2023): Alta Escalabilidade
 
-#### Virtual Threads
+#### Virtual Threads:
 
 Talvez a maior mudança interna na JVM em décadas. Elas permitem que um servidor suporte milhões de tarefas simultâneas usando muito menos memória do que as threads tradicionais.
 
