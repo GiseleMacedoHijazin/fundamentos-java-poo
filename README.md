@@ -150,8 +150,7 @@ ________________________________________
 
 ### IntelliJ IDEA
 
- <img src="imagens/Intellij-IDEA.png" width="200">
-</p>
+<img src="imagens/IntelliJ-IDEA.png" width="300">
 
 
 
