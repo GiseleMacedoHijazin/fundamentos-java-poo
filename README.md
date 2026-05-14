@@ -150,7 +150,9 @@ ________________________________________
 
 ### IntelliJ IDEA
 
-<!------IMAGEM DO INTELLIJ AQUI-------->
+ <img src="imagens/Intellij-IDEA.png" width="200">
+</p>
+
 
 
 ### Eclipse IDE
